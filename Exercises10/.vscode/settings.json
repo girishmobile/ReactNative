@@ -1,0 +1,25 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.enablePreview": false,
+  "workbench.colorTheme": "Default Light+",
+  "react-native-tools.showUserTips": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.home": "/Library/Java/JavaVirtualMachines/jdk-17.0.1.jdk/Contents/Home",
+  "bracketPairColorizer.depreciation-notice": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.formatOnSave": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1,
+  "editor.defaultFormatter": "msjsdiag.vscode-react-native"
+}
